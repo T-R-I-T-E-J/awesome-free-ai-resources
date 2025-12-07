@@ -10,25 +10,55 @@
 
 ## 📑 Table of Contents
 
-- [3D Models, Textures & HDRIs](#-1-3d-models-textures--hdris)
-- [Stock Image Websites](#️-2-stock-image-websites)
-- [Icons Libraries](#-3-icons-libraries)
-- [UI/UX Design & Prototyping Tools](#-4-uiux-design--prototyping-tools)
-- [Audio, Speech & Voice](#-5-audio-speech--voice)
-- [Image, Art & AI Generation Tools](#️-6-image-art--ai-generation-tools)
-- [Video & Motion Tools](#-7-video--motion-tools)
-- [Productivity, Writing & Research](#-8-productivity-writing--research)
-- [Business, Legal & Web Tools](#️-9-business-legal--web-tools)
-- [AI Chatbots & Assistants](#-10-ai-chatbots--assistants)
-- [Code Assistants](#-11-code-assistants)
-- [AI APIs & Platforms](#-12-ai-apis--platforms)
-- [Open Source Models](#-13-open-source-models)
-- [Learning Resources](#-14-learning-resources)
+- [Web Animation, Motion & Interaction](#️-1-web-animation-motion--interaction-inspiration)
+- [3D Logo & Branding Tools](#-2-3d-logo--branding-tools)
+- [3D Models, Textures & HDRIs](#-3-3d-models-textures--hdris)
+- [Stock Image Websites](#️-4-stock-image-websites)
+- [Icons Libraries](#-5-icons-libraries)
+- [UI/UX Design & Prototyping Tools](#-6-uiux-design--prototyping-tools)
+- [Audio, Speech & Voice](#-7-audio-speech--voice)
+- [Image, Art & AI Generation Tools](#️-8-image-art--ai-generation-tools)
+- [Video & Motion Tools](#-9-video--motion-tools)
+- [Productivity, Writing & Research](#-10-productivity-writing--research)
+- [Business, Legal & Web Tools](#️-11-business-legal--web-tools)
+- [AI Chatbots & Assistants](#-12-ai-chatbots--assistants)
+- [Code Assistants](#-13-code-assistants)
+- [AI APIs & Platforms](#-14-ai-apis--platforms)
+- [Open Source Models](#-15-open-source-models)
+- [Learning Resources](#-16-learning-resources)
 - [Contributing](#-contributing)
 
 ---
 
-## 🧊 1. 3D Models, Textures & HDRIs
+## 🖥️ 1. Web Animation, Motion & Interaction Inspiration
+
+| Tool | Description | Free / Paid | AI Tool |
+|------|-------------|-------------|---------|
+| [Awwwards](https://awwwards.com) | World-class web design & animation inspiration | Free / Paid | No |
+| [60fps.design](https://60fps.design) | Curated interface animation & motion design inspiration | Free | No |
+| [LottieLab](https://lottielab.com) | Tool for creating micro-interactions & Lottie animations | Freemium | No |
+| [Dribbble](https://dribbble.com) | Design inspiration & showcase | Freemium | No |
+| [Mobbin](https://mobbin.com) | Mobile & web design patterns library | Freemium | No |
+| [UI Movement](https://uimovement.com) | UI animation inspiration | Free | No |
+| [Codrops](https://tympanus.net/codrops) | Web design tutorials & experiments | Free | No |
+
+---
+
+## 🧊 2. 3D Logo & Branding Tools
+
+| Tool | Description | Free / Paid | AI Tool |
+|------|-------------|-------------|---------|
+| [3DLogoLab](https://3dlogolab.io) | Generate 3D logos from text + style presets | Free | **Yes** |
+| [Looka](https://looka.com) | Logo & brand kit generator | Paid | **Yes** |
+| [Brandmark](https://brandmark.io) | AI-powered logo maker | Paid | **Yes** |
+| [Hatchful](https://hatchful.shopify.com) | Free logo maker by Shopify | Free | No |
+| [Canva Logo Maker](https://canva.com/create/logos) | Design logos with templates | Freemium | No |
+| [LogoAI](https://logoai.com) | AI logo generator | Freemium | **Yes** |
+| [Namecheap Logo](https://namecheap.com/logo-maker) | Free logo generator | Free | No |
+
+---
+
+## 🧊 3. 3D Models, Textures & HDRIs
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -37,7 +67,7 @@
 | [Envato Elements](https://elements.envato.com) | 3D models, stock video, SFX, templates | Paid (subscription) | No |
 | [ArtStation](https://artstation.com) | 3D models, textures, brushes, portfolios | Freemium | No |
 | [Freepik 3D](https://freepik.com/3d-models) | Free/premium 3D assets | Freemium | No |
-| [PolyHaven](https://polyhaven.com) | High-quality free 3D models, HDRIs, textures | **Free** | No |
+| [PolyHaven](https://polyhaven.com) | High-quality free 3D models, HDRIs, textures (CC0) | **Free** | No |
 | [Free3D](https://free3d.com) | Free 3D models in multiple formats | Free | No |
 | [Fab](https://fab.com) | 3D models, textures, templates | Freemium | No |
 | [CGTrader](https://cgtrader.com) | Huge 3D marketplace + free models | Freemium | No |
@@ -48,14 +78,14 @@
 
 ---
 
-## 🖼️ 2. Stock Image Websites
+## 🖼️ 4. Stock Image Websites
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
 | [Unsplash](https://unsplash.com) | High-quality free photography | Free | No |
 | [Pexels](https://pexels.com) | Free photos & videos | Free | No |
 | [Pixabay](https://pixabay.com) | Free images, videos, illustrations | Free | No |
-| [Freepik](https://freepik.com) | Stock images + vectors + 3D | Freemium | No (AI features available) |
+| [Freepik](https://freepik.com) | Stock images + vectors + 3D | Freemium | Partial |
 | [Kaboompics](https://kaboompics.com) | Free lifestyle & interior photography | Free | No |
 | [FreeImages](https://freeimages.com) | Large free photo library | Free | No |
 | [Burst](https://burst.shopify.com) | Free images for products & marketing | Free | No |
@@ -63,7 +93,7 @@
 
 ---
 
-## 🧩 3. Icons Libraries
+## 🧩 5. Icons Libraries
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -73,10 +103,12 @@
 | [Heroicons](https://heroicons.com) | Beautiful hand-crafted SVG icons | Free | No |
 | [Lucide](https://lucide.dev) | Open-source icon library | Free | No |
 | [Tabler Icons](https://tabler-icons.io) | 4500+ free SVG icons | Free | No |
+| [Phosphor Icons](https://phosphoricons.com) | Flexible icon family | Free | No |
+| [Feather Icons](https://feathericons.com) | Simply beautiful open source icons | Free | No |
 
 ---
 
-## 🧪 4. UI/UX Design & Prototyping Tools
+## 🧪 6. UI/UX Design & Prototyping Tools
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -90,7 +122,7 @@
 
 ---
 
-## 🎤 5. Audio, Speech & Voice
+## 🎤 7. Audio, Speech & Voice
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -107,7 +139,7 @@
 
 ---
 
-## 🖼️ 6. Image, Art & AI Generation Tools
+## 🖼️ 8. Image, Art & AI Generation Tools
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -125,7 +157,7 @@
 
 ---
 
-## 🎬 7. Video & Motion Tools
+## 🎬 9. Video & Motion Tools
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -142,7 +174,7 @@
 
 ---
 
-## 📚 8. Productivity, Writing & Research
+## 📚 10. Productivity, Writing & Research
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -159,7 +191,7 @@
 
 ---
 
-## 🏛️ 9. Business, Legal & Web Tools
+## 🏛️ 11. Business, Legal & Web Tools
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -172,7 +204,7 @@
 
 ---
 
-## 💬 10. AI Chatbots & Assistants
+## 💬 12. AI Chatbots & Assistants
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -187,7 +219,7 @@
 
 ---
 
-## 💻 11. Code Assistants
+## 💻 13. Code Assistants
 
 | Tool | Description | Free / Paid | AI Tool |
 |------|-------------|-------------|---------|
@@ -202,7 +234,7 @@
 
 ---
 
-## 🔌 12. AI APIs & Platforms
+## 🔌 14. AI APIs & Platforms
 
 | Platform | Description | Free / Paid | AI Tool |
 |----------|-------------|-------------|---------|
@@ -217,7 +249,7 @@
 
 ---
 
-## 🔓 13. Open Source Models
+## 🔓 15. Open Source Models
 
 | Model | Type | Link |
 |-------|------|------|
@@ -233,7 +265,7 @@
 
 ---
 
-## 📚 14. Learning Resources
+## 📚 16. Learning Resources
 
 ### Free Courses
 - [Google AI Courses](https://ai.google/education/) — Free Google AI training
