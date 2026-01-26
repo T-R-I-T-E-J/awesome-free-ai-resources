@@ -6,6 +6,12 @@
 
 > A curated collection of **free** AI tools, APIs, and resources for developers, creators, and enthusiasts.
 
+## 📚 Documentation
+
+- **[💰 Pricing Guide](PRICING_GUIDE.md)** - Detailed breakdown of free vs paid tiers, API limits, and rate limits
+- **[🎯 Use Cases & Tutorials](USE_CASES.md)** - Practical workflows for developers, designers, creators, and students
+- **[🔗 Integration Guide](INTEGRATION_GUIDE.md)** - How to combine multiple AI tools with code examples and automation scripts
+
 ---
 
 ## 📑 Table of Contents
@@ -260,46 +266,54 @@
 | [ElevenLabs](https://elevenlabs.io)          | Ultra-realistic voice synthesis | ✔       | ✔    | **Yes** |
 | [Udio](https://udio.com)                     | AI music generation             | ✔       | ✔    | **Yes** |
 | [Whisper](https://github.com/openai/whisper) | Open-source speech recognition  | ✔       | ✖    | **Yes** |
+| [Descript](https://descript.com)             | AI audio/video editing          | ✔       | ✔    | **Yes** |
 
 ---
 
 ## 🖼️ 15. Image & AI Generation Tools
 
-| Tool                                              | Description                       | Free      | Paid | AI      |
-| ------------------------------------------------- | --------------------------------- | --------- | ---- | ------- |
-| [Midjourney](https://midjourney.com)              | High-quality creative images      | ✖         | ✔    | **Yes** |
-| [Leonardo AI](https://leonardo.ai)                | Pro art & design assets           | ✔ Credits | ✔    | **Yes** |
-| [Ideogram AI](https://ideogram.ai)                | AI images with perfect typography | ✔         | ✖    | **Yes** |
-| [Magnific AI](https://magnific.ai)                | Extreme photo upscaling           | ✔ Trial   | ✔    | **Yes** |
-| [Recraft AI](https://recraft.ai)                  | Icons & vector generation         | ✔         | ✔    | **Yes** |
-| [DALL-E 3 (Bing)](https://bing.com/images/create) | Microsoft's image creator         | ✔         | ✖    | **Yes** |
-| [Playground AI](https://playground.ai)            | Creative AI images                | ✔         | ✔    | **Yes** |
-| [Stable Diffusion](https://stability.ai)          | Open-source image generation      | ✔         | ✖    | **Yes** |
-| [Adobe Firefly](https://firefly.adobe.com)        | Adobe's AI generator              | ✔         | ✔    | **Yes** |
-| [Canva AI](https://canva.com)                     | Design + AI image tools           | ✔         | ✔    | **Yes** |
-| [Craiyon](https://craiyon.com)                    | Free unlimited AI images          | ✔         | ✖    | **Yes** |
-| [Flux](https://flux-ai.io)                        | Fast AI image generation          | ✔         | ✔    | **Yes** |
-| [SeaArt AI](https://seaart.ai)                    | Free AI art generator             | ✔         | ✔    | **Yes** |
-| [Tensor.Art](https://tensor.art)                  | AI image generation community     | ✔         | ✔    | **Yes** |
-| [Pixlr AI](https://pixlr.com/ai)                  | AI-powered photo editing          | ✔         | ✔    | **Yes** |
+| Tool                                                | Description                       | Free      | Paid | AI      |
+| --------------------------------------------------- | --------------------------------- | --------- | ---- | ------- |
+| [Midjourney](https://midjourney.com)                | High-quality creative images      | ✖         | ✔    | **Yes** |
+| [Leonardo AI](https://leonardo.ai)                  | Pro art & design assets           | ✔ Credits | ✔    | **Yes** |
+| [Ideogram AI](https://ideogram.ai)                  | AI images with perfect typography | ✔         | ✖    | **Yes** |
+| [Magnific AI](https://magnific.ai)                  | Extreme photo upscaling           | ✔ Trial   | ✔    | **Yes** |
+| [Recraft AI](https://recraft.ai)                    | Icons & vector generation         | ✔         | ✔    | **Yes** |
+| [DALL-E 3 (Bing)](https://bing.com/images/create)   | Microsoft's image creator         | ✔         | ✖    | **Yes** |
+| [Playground AI](https://playground.ai)              | Creative AI images                | ✔         | ✔    | **Yes** |
+| [Stable Diffusion](https://stability.ai)            | Open-source image generation      | ✔         | ✖    | **Yes** |
+| [Adobe Firefly](https://firefly.adobe.com)          | Adobe's AI generator              | ✔         | ✔    | **Yes** |
+| [Canva AI](https://canva.com)                       | Design + AI image tools           | ✔         | ✔    | **Yes** |
+| [Craiyon](https://craiyon.com)                      | Free unlimited AI images          | ✔         | ✖    | **Yes** |
+| [Flux](https://flux-ai.io)                          | Fast AI image generation          | ✔         | ✔    | **Yes** |
+| [SeaArt AI](https://seaart.ai)                      | Free AI art generator             | ✔         | ✔    | **Yes** |
+| [Tensor.Art](https://tensor.art)                    | AI image generation community     | ✔         | ✔    | **Yes** |
+| [Pixlr AI](https://pixlr.com/ai)                    | AI-powered photo editing          | ✔         | ✔    | **Yes** |
+| [Krea AI](https://krea.ai)                          | Real-time AI image generation     | ✔         | ✔    | **Yes** |
+| [Civitai](https://civitai.com)                      | AI model sharing community        | ✔         | ✖    | **Yes** |
+| [Lexica](https://lexica.art)                        | Stable Diffusion search engine    | ✔         | ✔    | **Yes** |
+| [Scribble Diffusion](https://scribblediffusion.com) | Sketch to image AI                | ✔         | ✖    | **Yes** |
+| [Clipdrop](https://clipdrop.co)                     | AI image editing toolkit          | ✔         | ✔    | **Yes** |
+| [Remove.bg](https://remove.bg)                      | AI background removal             | ✔         | ✔    | **Yes** |
+| [Upscayl](https://upscayl.org)                      | Free AI image upscaling           | ✔         | ✖    | **Yes** |
 
 ---
 
 ## 🎬 16. Video & Motion Tools
 
-| Tool                              | Description                      | Free        | Paid | AI      |
-| --------------------------------- | -------------------------------- | ----------- | ---- | ------- |
-| [Runway ML](https://runway.ml)    | Text-to-video, motion tracking   | ✔ Limited   | ✔    | **Yes** |
-| [OpusClip](https://opus.pro)      | Converts long videos into shorts | ✔ Watermark | ✔    | **Yes** |
-| [Vidyo AI](https://vidyo.ai)      | Viral shorts from long videos    | ✔           | ✔    | **Yes** |
-| [InVideo AI](https://invideo.io)  | Full video from script           | ✔           | ✔    | **Yes** |
-| [Luma AI](https://lumalabs.ai)    | 3D captures + VFX                | ✔           | ✔    | **Yes** |
-| [Synthesia](https://synthesia.io) | Studio AI presenters             | Demo        | ✔    | **Yes** |
-| [Pika](https://pika.art)          | Text-to-video generation         | ✔           | ✔    | **Yes** |
-| [D-ID](https://d-id.com)          | Talking avatar creator           | ✔           | ✔    | **Yes** |
-| [Kapwing](https://kapwing.com)    | AI video editing                 | ✔           | ✔    | **Yes** |
-| [HeyGen](https://heygen.com)      | AI presenter videos              | ✔           | ✔    | **Yes** |
-| [Opus](https://opus.pro)          | Auto editing and captioning      | ✔           | ✔    | **Yes** |
+| Tool                              | Description                          | Free        | Paid | AI      |
+| --------------------------------- | ------------------------------------ | ----------- | ---- | ------- |
+| [Runway ML](https://runway.ml)    | Text-to-video Gen-3, motion tracking | ✔ Limited   | ✔    | **Yes** |
+| [OpusClip](https://opus.pro)      | Converts long videos into shorts     | ✔ Watermark | ✔    | **Yes** |
+| [Vidyo AI](https://vidyo.ai)      | Viral shorts from long videos        | ✔           | ✔    | **Yes** |
+| [InVideo AI](https://invideo.io)  | Full video from script               | ✔           | ✔    | **Yes** |
+| [Luma AI](https://lumalabs.ai)    | 3D captures + VFX                    | ✔           | ✔    | **Yes** |
+| [Synthesia](https://synthesia.io) | Studio AI presenters                 | Demo        | ✔    | **Yes** |
+| [Pika Labs](https://pika.art)     | AI video generation                  | ✔           | ✔    | **Yes** |
+| [D-ID](https://d-id.com)          | Talking avatar creator               | ✔           | ✔    | **Yes** |
+| [Kapwing](https://kapwing.com)    | AI video editing                     | ✔           | ✔    | **Yes** |
+| [HeyGen](https://heygen.com)      | AI presenter videos                  | ✔           | ✔    | **Yes** |
+| [Opus](https://opus.pro)          | Auto editing and captioning          | ✔           | ✔    | **Yes** |
 
 ---
 
