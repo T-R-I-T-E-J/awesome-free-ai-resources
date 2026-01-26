@@ -1,0 +1,48 @@
+name: 💡 Request New Category
+description: Suggest a new category for AI tools
+title: "[CATEGORY]: "
+labels: ["enhancement", "new-category"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest a new category that would help organize AI tools better!
+
+  - type: input
+    id: category-name
+    attributes:
+      label: Category Name
+      description: What should this category be called?
+      placeholder: e.g., AI for Real Estate
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Category Description
+      description: What types of tools would this category include?
+      placeholder: This category would include AI tools for...
+    validations:
+      required: true
+
+  - type: textarea
+    id: example-tools
+    attributes:
+      label: Example Tools
+      description: List at least 3-5 tools that would fit in this category
+      placeholder: |
+        1. Tool Name - Description - URL
+        2. Tool Name - Description - URL
+        3. Tool Name - Description - URL
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-needed
+    attributes:
+      label: Why is this category needed?
+      description: Explain why this deserves its own category
+      placeholder: This category is needed because...
+    validations:
+      required: true

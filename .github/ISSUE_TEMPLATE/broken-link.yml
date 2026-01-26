@@ -1,0 +1,54 @@
+name: 🐛 Report Broken Link
+description: Report a broken or outdated link
+title: "[BROKEN LINK]: "
+labels: ["bug", "broken-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us maintain quality! Report any broken or outdated links here.
+
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      description: Which tool has the broken link?
+      placeholder: e.g., ChatGPT
+    validations:
+      required: true
+
+  - type: input
+    id: broken-url
+    attributes:
+      label: Broken URL
+      description: What's the broken/outdated URL?
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      options:
+        - Link returns 404
+        - Link redirects to wrong page
+        - Tool no longer exists
+        - Tool is no longer free
+        - Tool has been rebranded/renamed
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: correct-url
+    attributes:
+      label: Correct URL (if known)
+      description: Do you know the correct/updated URL?
+      placeholder: https://newurl.com
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Any other relevant details?
