@@ -38,7 +38,17 @@
 - [Code Assistants](#-20-code-assistants)
 - [AI APIs & Platforms](#-21-ai-apis--platforms)
 - [Open Source Models](#-22-open-source-models)
-- [Learning Resources](#-23-learning-resources)
+- [AI for Education](#-23-ai-for-education)
+- [AI for Marketing](#-24-ai-for-marketing)
+- [AI for Data Science](#-25-ai-for-data-science)
+- [AI for Gaming](#-26-ai-for-gaming)
+- [AI for Healthcare](#-27-ai-for-healthcare-educational)
+- [AI for Finance](#-28-ai-for-finance)
+- [AI Browser Extensions](#-29-ai-browser-extensions)
+- [AI Mobile Apps](#-30-ai-mobile-apps)
+- [No-Code AI Platforms](#-31-no-code-ai-platforms)
+- [AI for Accessibility](#-32-ai-for-accessibility)
+- [Learning Resources](#-33-learning-resources)
 - [Contributing](#-contributing)
 
 ---
@@ -431,7 +441,191 @@
 
 ---
 
-## 📚 23. Learning Resources
+## 🎓 23. AI for Education
+
+| Tool                                             | Description                         | Free      | Paid | AI      |
+| ------------------------------------------------ | ----------------------------------- | --------- | ---- | ------- |
+| [Khan Academy Khanmigo](https://khanacademy.org) | AI tutor for students               | ✔ Limited | ✔    | **Yes** |
+| [Socratic by Google](https://socratic.org)       | Homework help with AI               | ✔         | ✖    | **Yes** |
+| [Quizlet AI](https://quizlet.com)                | AI-powered flashcards & study tools | ✔         | ✔    | **Yes** |
+| [Duolingo](https://duolingo.com)                 | AI language learning                | ✔         | ✔    | **Yes** |
+| [Photomath](https://photomath.com)               | Math problem solver with AI         | ✔         | ✔    | **Yes** |
+| [Wolfram Alpha](https://wolframalpha.com)        | Computational knowledge engine      | ✔         | ✔    | **Yes** |
+| [Coursera AI Courses](https://coursera.org)      | Free AI & ML courses                | ✔ Audit   | ✔    | No      |
+| [Educative AI](https://educative.io)             | Interactive coding courses          | ✔ Limited | ✔    | **Yes** |
+| [Brilliant](https://brilliant.org)               | STEM learning with AI               | ✔ Limited | ✔    | **Yes** |
+| [Cognii](https://cognii.com)                     | AI tutoring platform                | ✔ Trial   | ✔    | **Yes** |
+
+---
+
+## 📱 24. AI for Marketing
+
+| Tool                                       | Description                    | Free      | Paid | AI      |
+| ------------------------------------------ | ------------------------------ | --------- | ---- | ------- |
+| [Jasper AI](https://jasper.ai)             | AI marketing copy              | ✖         | ✔    | **Yes** |
+| [Copy.ai](https://copy.ai)                 | Marketing content generator    | ✔         | ✔    | **Yes** |
+| [Writesonic](https://writesonic.com)       | AI content writing             | ✔         | ✔    | **Yes** |
+| [Surfer SEO](https://surferseo.com)        | AI SEO optimization            | ✔ Trial   | ✔    | **Yes** |
+| [Semrush AI](https://semrush.com)          | SEO & marketing analytics      | ✔ Limited | ✔    | **Yes** |
+| [ChatGPT for SEO](https://chat.openai.com) | SEO content creation           | ✔         | ✔    | **Yes** |
+| [Predis.ai](https://predis.ai)             | AI social media posts          | ✔         | ✔    | **Yes** |
+| [Lately AI](https://lately.ai)             | Social media content generator | ✔ Trial   | ✔    | **Yes** |
+| [Simplified](https://simplified.com)       | All-in-one marketing AI        | ✔         | ✔    | **Yes** |
+| [AdCreative.ai](https://adcreative.ai)     | AI ad creatives                | ✔ Trial   | ✔    | **Yes** |
+| [Rytr](https://rytr.me)                    | AI writing assistant           | ✔         | ✔    | **Yes** |
+| [Frase](https://frase.io)                  | SEO content optimization       | ✔ Trial   | ✔    | **Yes** |
+
+---
+
+## 📊 25. AI for Data Science
+
+| Tool                                                | Description                     | Free      | Paid | AI      |
+| --------------------------------------------------- | ------------------------------- | --------- | ---- | ------- |
+| [Julius AI](https://julius.ai)                      | Data analysis with AI           | ✔         | ✔    | **Yes** |
+| [ChatGPT Code Interpreter](https://chat.openai.com) | Data analysis & visualization   | ✔ Limited | ✔    | **Yes** |
+| [Google Colab](https://colab.google.com)            | Free Jupyter notebooks with GPU | ✔         | ✔    | No      |
+| [Kaggle Notebooks](https://kaggle.com/code)         | Free data science environment   | ✔         | ✖    | No      |
+| [Deepnote](https://deepnote.com)                    | Collaborative data notebooks    | ✔         | ✔    | **Yes** |
+| [Hex](https://hex.tech)                             | Data workspace with AI          | ✔         | ✔    | **Yes** |
+| [Tableau Public](https://public.tableau.com)        | Free data visualization         | ✔         | ✖    | No      |
+| [Akkio](https://akkio.com)                          | No-code AI for data             | ✔ Trial   | ✔    | **Yes** |
+| [Obviously AI](https://obviously.ai)                | No-code predictive AI           | ✔ Trial   | ✔    | **Yes** |
+| [DataRobot](https://datarobot.com)                  | AutoML platform                 | ✔ Trial   | ✔    | **Yes** |
+| [H2O.ai](https://h2o.ai)                            | Open-source ML platform         | ✔         | ✔    | **Yes** |
+
+---
+
+## 🎮 26. AI for Gaming
+
+| Tool                                         | Description                 | Free      | Paid | AI      |
+| -------------------------------------------- | --------------------------- | --------- | ---- | ------- |
+| [Scenario](https://scenario.com)             | AI game asset generation    | ✔         | ✔    | **Yes** |
+| [Rosebud AI](https://rosebud.ai)             | AI game development         | ✔         | ✔    | **Yes** |
+| [Ludo AI](https://ludo.ai)                   | Game design assistant       | ✔         | ✔    | **Yes** |
+| [Promethean AI](https://prometheanai.com)    | AI world building           | ✔ Request | ✔    | **Yes** |
+| [Inworld AI](https://inworld.ai)             | AI NPCs & characters        | ✔         | ✔    | **Yes** |
+| [Convai](https://convai.com)                 | Conversational AI for games | ✔         | ✔    | **Yes** |
+| [Leonardo AI](https://leonardo.ai)           | Game art generation         | ✔ Credits | ✔    | **Yes** |
+| [Skybox AI](https://skybox.blockadelabs.com) | AI skybox generation        | ✔         | ✔    | **Yes** |
+| [Poly](https://withpoly.com)                 | AI texture generation       | ✔         | ✔    | **Yes** |
+| [Artbreeder](https://artbreeder.com)         | AI character creation       | ✔         | ✔    | **Yes** |
+
+---
+
+## 🏥 27. AI for Healthcare (Educational)
+
+| Tool                                        | Description                      | Free      | Paid | AI      |
+| ------------------------------------------- | -------------------------------- | --------- | ---- | ------- |
+| [Glass Health](https://glass.health)        | AI clinical decision support     | ✔         | ✔    | **Yes** |
+| [Buoy Health](https://buoyhealth.com)       | AI symptom checker               | ✔         | ✖    | **Yes** |
+| [Ada Health](https://ada.com)               | AI health assessment             | ✔         | ✖    | **Yes** |
+| [K Health](https://khealth.com)             | AI primary care                  | ✔ Limited | ✔    | **Yes** |
+| [Babylon Health](https://babylonhealth.com) | AI health assistant              | ✔         | ✔    | **Yes** |
+| [Infermedica](https://infermedica.com)      | Medical AI triage                | ✔ API     | ✔    | **Yes** |
+| [ChatGPT Medical](https://chat.openai.com)  | Medical information (not advice) | ✔         | ✔    | **Yes** |
+| [PubMed GPT](https://pubmedgpt.com)         | Medical literature search        | ✔         | ✖    | **Yes** |
+| [Consensus](https://consensus.app)          | Medical research papers          | ✔         | ✔    | **Yes** |
+
+**⚠️ Disclaimer:** These tools are for educational purposes only. Always consult healthcare professionals for medical advice.
+
+---
+
+## 💹 28. AI for Finance
+
+| Tool                                       | Description                  | Free      | Paid | AI      |
+| ------------------------------------------ | ---------------------------- | --------- | ---- | ------- |
+| [ChatGPT Finance](https://chat.openai.com) | Financial analysis & advice  | ✔         | ✔    | **Yes** |
+| [Composer](https://composer.trade)         | AI trading strategies        | ✔         | ✔    | **Yes** |
+| [TradingView AI](https://tradingview.com)  | Chart analysis with AI       | ✔         | ✔    | **Yes** |
+| [Kavout](https://kavout.com)               | AI stock analysis            | ✔ Limited | ✔    | **Yes** |
+| [Magnifi](https://magnifi.com)             | AI investment assistant      | ✔         | ✔    | **Yes** |
+| [Plaid](https://plaid.com)                 | Financial data API           | ✔ Dev     | ✔    | **Yes** |
+| [Alpaca](https://alpaca.markets)           | AI trading API               | ✔         | ✔    | **Yes** |
+| [QuantConnect](https://quantconnect.com)   | Algorithmic trading platform | ✔         | ✔    | **Yes** |
+| [Zacks Investment](https://zacks.com)      | AI stock research            | ✔ Limited | ✔    | **Yes** |
+| [Finviz](https://finviz.com)               | Stock screener with AI       | ✔         | ✔    | No      |
+
+**⚠️ Disclaimer:** Not financial advice. Invest at your own risk.
+
+---
+
+## 🔌 29. AI Browser Extensions
+
+| Extension                                                | Description            | Free    | Paid | AI      |
+| -------------------------------------------------------- | ---------------------- | ------- | ---- | ------- |
+| [ChatGPT for Chrome](https://chrome.google.com/webstore) | ChatGPT in browser     | ✔       | ✔    | **Yes** |
+| [Merlin](https://merlin.foyer.work)                      | ChatGPT everywhere     | ✔       | ✔    | **Yes** |
+| [Monica](https://monica.im)                              | AI assistant extension | ✔       | ✔    | **Yes** |
+| [Compose AI](https://compose.ai)                         | AI writing assistant   | ✔       | ✔    | **Yes** |
+| [Grammarly](https://grammarly.com)                       | Grammar & writing AI   | ✔       | ✔    | **Yes** |
+| [Wordtune](https://wordtune.com)                         | AI rewriting tool      | ✔       | ✔    | **Yes** |
+| [Jasper Chrome](https://jasper.ai)                       | AI content creation    | ✔ Trial | ✔    | **Yes** |
+| [Wiseone](https://wiseone.io)                            | AI reading assistant   | ✔       | ✔    | **Yes** |
+| [Harpa AI](https://harpa.ai)                             | Web automation with AI | ✔       | ✔    | **Yes** |
+| [Sider](https://sider.ai)                                | ChatGPT sidebar        | ✔       | ✔    | **Yes** |
+| [MaxAI](https://maxai.me)                                | 1-click AI anywhere    | ✔       | ✔    | **Yes** |
+| [Perplexity Extension](https://perplexity.ai)            | AI search in browser   | ✔       | ✔    | **Yes** |
+
+---
+
+## 📱 30. AI Mobile Apps
+
+| App                                                      | Platform    | Description           | Free      | Paid | AI      |
+| -------------------------------------------------------- | ----------- | --------------------- | --------- | ---- | ------- |
+| [ChatGPT App](https://apps.apple.com/app/openai-chatgpt) | iOS/Android | Official ChatGPT app  | ✔         | ✔    | **Yes** |
+| [Bing Chat App](https://bing.com/chat)                   | iOS/Android | Microsoft Copilot     | ✔         | ✔    | **Yes** |
+| [Google Gemini](https://gemini.google.com)               | iOS/Android | Google's AI assistant | ✔         | ✖    | **Yes** |
+| [Claude App](https://claude.ai)                          | iOS/Android | Anthropic's AI        | ✔         | ✔    | **Yes** |
+| [Perplexity App](https://perplexity.ai)                  | iOS/Android | AI search engine      | ✔         | ✔    | **Yes** |
+| [Poe](https://poe.com)                                   | iOS/Android | Multi-AI platform     | ✔         | ✔    | **Yes** |
+| [Otter.ai](https://otter.ai)                             | iOS/Android | AI transcription      | ✔         | ✔    | **Yes** |
+| [Replika](https://replika.com)                           | iOS/Android | AI companion          | ✔         | ✔    | **Yes** |
+| [Socratic](https://socratic.org)                         | iOS/Android | Homework help         | ✔         | ✖    | **Yes** |
+| [Lensa AI](https://prisma-ai.com/lensa)                  | iOS/Android | AI photo editing      | ✔ Limited | ✔    | **Yes** |
+| [Remini](https://remini.ai)                              | iOS/Android | AI photo enhancer     | ✔         | ✔    | **Yes** |
+| [FaceApp](https://faceapp.com)                           | iOS/Android | AI face editing       | ✔         | ✔    | **Yes** |
+
+---
+
+## 🔧 31. No-Code AI Platforms
+
+| Platform                                | Description                 | Free      | Paid | AI      |
+| --------------------------------------- | --------------------------- | --------- | ---- | ------- |
+| [Zapier AI](https://zapier.com)         | Workflow automation with AI | ✔ Limited | ✔    | **Yes** |
+| [Make (Integromat)](https://make.com)   | Visual automation platform  | ✔         | ✔    | **Yes** |
+| [Bubble](https://bubble.io)             | No-code app builder         | ✔         | ✔    | Limited |
+| [Glide](https://glideapps.com)          | AI-powered app builder      | ✔         | ✔    | **Yes** |
+| [Softr](https://softr.io)               | No-code website builder     | ✔         | ✔    | **Yes** |
+| [Adalo](https://adalo.com)              | Mobile app builder          | ✔         | ✔    | Limited |
+| [FlutterFlow](https://flutterflow.io)   | App builder with AI         | ✔         | ✔    | **Yes** |
+| [Voiceflow](https://voiceflow.com)      | AI chatbot builder          | ✔         | ✔    | **Yes** |
+| [Landbot](https://landbot.io)           | No-code chatbot builder     | ✔         | ✔    | **Yes** |
+| [Pickaxe](https://pickaxeproject.com)   | Build AI tools no-code      | ✔         | ✔    | **Yes** |
+| [Stack AI](https://stack-ai.com)        | No-code AI workflows        | ✔         | ✔    | **Yes** |
+| [Relevance AI](https://relevanceai.com) | No-code AI platform         | ✔         | ✔    | **Yes** |
+
+---
+
+## ♿ 32. AI for Accessibility
+
+| Tool                                                | Description                   | Free      | Paid | AI      |
+| --------------------------------------------------- | ----------------------------- | --------- | ---- | ------- |
+| [Otter.ai](https://otter.ai)                        | Real-time transcription       | ✔         | ✔    | **Yes** |
+| [Live Transcribe](https://google.com/accessibility) | Google's live captions        | ✔         | ✖    | **Yes** |
+| [Seeing AI](https://microsoft.com/seeing-ai)        | Visual assistance for blind   | ✔         | ✖    | **Yes** |
+| [Be My Eyes](https://bemyeyes.com)                  | Visual assistance community   | ✔         | ✖    | **Yes** |
+| [Envision AI](https://letsenvision.com)             | AI for blind & low vision     | ✔ Limited | ✔    | **Yes** |
+| [Voice Dream Reader](https://voicedream.com)        | Text-to-speech reader         | ✖         | ✔    | **Yes** |
+| [Speechify](https://speechify.com)                  | Text-to-speech                | ✔         | ✔    | **Yes** |
+| [Read Aloud](https://readaloud.app)                 | Browser text-to-speech        | ✔         | ✖    | **Yes** |
+| [Descript](https://descript.com)                    | Audio transcription & editing | ✔         | ✔    | **Yes** |
+| [Whisper](https://github.com/openai/whisper)        | Open-source transcription     | ✔         | ✖    | **Yes** |
+| [ElevenLabs](https://elevenlabs.io)                 | Natural text-to-speech        | ✔         | ✔    | **Yes** |
+| [Voicepods](https://voicepods.com)                  | Podcast transcription         | ✔         | ✔    | **Yes** |
+
+---
+
+## 📚 33. Learning Resources
 
 ### Free Courses
 
