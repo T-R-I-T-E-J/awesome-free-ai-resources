@@ -1,0 +1,30 @@
+name: 🔗 Check Links
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Weekly on Sunday at midnight UTC
+  workflow_dispatch: # Allow manual trigger
+  pull_request: # Check links on PRs
+    paths:
+      - "**.md"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress --exclude-mail '**/*.md'
+          fail: true
+
+      - name: Create Issue if Links Broken
+        if: failure()
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: 🔗 Broken Links Detected
+          content-filepath: ./lychee/out.md
+          labels: bug, broken-link, automated
